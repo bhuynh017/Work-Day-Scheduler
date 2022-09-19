@@ -28,3 +28,4 @@ THEN the saved events persist
 
 ![](Untitled_%20Sep%2019,%202022%205_38%20PM.gif)
 
+https://bhuynh017.github.io/Work-Day-Scheduler/
